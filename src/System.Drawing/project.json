@@ -1,4 +1,5 @@
 ﻿{
+	"name": "System.Drawing-dotnet-core",
 	"version": "1.0.0-*",
 
 	"dependencies": {
