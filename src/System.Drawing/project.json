@@ -1,6 +1,17 @@
 ﻿{
+	"version": "1.0.2-*",
 	"name": "System.Drawing-dotnet-core",
-	"version": "1.0.1-*",
+	"title": "System.Drawing dotnet core",
+	"copyright": "(c) 2016-present Matt Graham",
+	"authors": [ "Matt Graham" ],
+
+	"packOptions": {
+		"licenseUrl": "https://github.com/matgr1/System.Drawing-dotnet-core/blob/master/LICENSE.md",
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/matgr1/System.Drawing-dotnet-core"
+		}
+	},
 
 	"dependencies": {
 		"NETStandard.Library": "1.6.0"
