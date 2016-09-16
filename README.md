@@ -1,4 +1,4 @@
-This is ONLY interfaces/enums/data objects - NO IMPLEMENTATION (sorry... maybe someday)
+This is ONLY interfaces/enums/data objects - NO IMPLEMENTATION
 
 nuget package: https://www.nuget.org/packages/System.Drawing-dotnet-core/
 
