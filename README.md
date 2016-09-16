@@ -4,6 +4,6 @@ nuget package: https://www.nuget.org/packages/System.Drawing-dotnet-core/
 
 `Install-Package System.Drawing-dotnet-core`
 
-### License
+#### License
 
 MIT
