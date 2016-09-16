@@ -3,3 +3,7 @@ This is ONLY interfaces/enums/data objects - NO IMPLEMENTATION.  It is used by h
 nuget package: https://www.nuget.org/packages/System.Drawing-dotnet-core/
 
 `Install-Package System.Drawing-dotnet-core`
+
+### License
+
+MIT
