@@ -4,6 +4,7 @@
 	"title": "System.Drawing dotnet core",
 	"copyright": "(c) 2016-present Matt Graham",
 	"authors": [ "Matt Graham" ],
+	"projectUrl": "https://github.com/matgr1/System.Drawing-dotnet-core",
 
 	"packOptions": {
 		"licenseUrl": "https://github.com/matgr1/System.Drawing-dotnet-core/blob/master/LICENSE.md",
