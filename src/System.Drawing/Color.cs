@@ -270,7 +270,7 @@
 			color.R = ConvertToByte(red);
 			color.G = ConvertToByte(green);
 			color.B = ConvertToByte(blue);
-
+			
 			return color;
 		}
 
