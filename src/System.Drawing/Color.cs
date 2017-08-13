@@ -102,9 +102,9 @@
 		public bool Equals(Color color)
 		{
 			return (color.A == A) &&
-				(color.R == A) &&
-				(color.G == A) &&
-				(color.B == A);
+				(color.R == R) &&
+				(color.G == G) &&
+				(color.B == B);
 		}
 		//
 		// Summary:
