@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Copyright></Copyright>
     <AssemblyTitle>System.Drawing dotnet core</AssemblyTitle>
-    <VersionPrefix>1.2.2</VersionPrefix>
+    <VersionPrefix>1.2.3</VersionPrefix>
     <Authors></Authors>
     <TargetFrameworks>netstandard2.0;netstandard1.6;netstandard1.5;netstandard1.4;netstandard1.3;netstandard1.2;netstandard1.1</TargetFrameworks>
     <AssemblyName>System.Drawing-dotnet-core</AssemblyName>
@@ -12,15 +12,9 @@
     <PackageLicenseUrl>https://github.com/matgr1/System.Drawing-dotnet-core/blob/master/LICENSE.md</PackageLicenseUrl>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/matgr1/System.Drawing-dotnet-core</RepositoryUrl>
-    <NetStandardImplicitPackageVersion>2.0.0</NetStandardImplicitPackageVersion>
-    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
-    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
-    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <AssemblyVersion>1.2.2.0</AssemblyVersion>
-    <FileVersion>1.2.2.0</FileVersion>
-    <Version>1.2.2</Version>
-    <Description>This is ONLY interfaces/enums/data objects - NO IMPLEMENTATION. It is used by https://github.com/matgr1/FreeImage-dotnet-core which provides a bitmap implementation and various image codecs based on FreeImage (http://freeimage.sourceforge.net/)</Description>
+    <Version>1.2.3</Version>
+    <Description>This is ONLY interfaces/enums/data objects - NO IMPLEMENTATION.</Description>
   </PropertyGroup>
 
   <ItemGroup>
